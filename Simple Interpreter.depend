@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1650725769 source:h:\work & education\workspace\codeblocks projects\c\simple interpreter\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<math.h>
+
